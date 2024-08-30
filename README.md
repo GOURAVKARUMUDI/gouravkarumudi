@@ -8,8 +8,8 @@ I am a student who loves coding!
 
 *   🌍  I'm based in Ongole
 *   ✉️  You can contact me at [gouravkarumudi6@gmail.com](mailto:gouravkarumudi6@gmail.com)
-*   🧠  I'm learning Programming Languages
-*   🤝  I'm open to collaborating on Projects### Skills 
+*   🧠  I'm learning Programming Languages.
+*   🤝  I'm open to collaborating on Projects.
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
                     </p>
